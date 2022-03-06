@@ -35,7 +35,7 @@ Para instalação dos módulos utilize os comandos abaixo direto no terminal.
 ![Resultados dos diagramas](./espolios/resultados.png)
 
 * O que valida com os diagramas plotados pelo script `EsforcosEmVigas.py` <br>
-![Esforço Cortante](./espolios/esforcoCortante.png) ![Momento Fletor](./espolios/momentoFletor.png)
+![Esforço Cortante](./espolios/EsforcoCortante.png) ![Momento Fletor](./espolios/momentoFletor.png)
 
 ## Conclusão
 Portanto, a confiabilidade do script `EsforcosEmVigas.py` é satisfatória para tais aplicação. Com isso, basta fazer o clone do repositório e mudar as váriáveis de esforços e compilar o código.
